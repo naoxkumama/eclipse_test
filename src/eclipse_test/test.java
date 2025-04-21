@@ -8,5 +8,6 @@ public class test  {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // ここで入力を受け取り、合計を表示するコードを記述してください。
-    }
+    //1回目
+        }
 }
